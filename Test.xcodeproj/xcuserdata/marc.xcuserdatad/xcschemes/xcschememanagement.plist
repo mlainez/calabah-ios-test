@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Test-cal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>490FF1B51B32EC6D001B865E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>60ae8b32f549b603c41e141b</key>
 		<dict>
 			<key>primary</key>
 			<true/>
